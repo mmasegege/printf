@@ -1,4 +1,3 @@
-functions2.c
 #include "main.h"
 
 /****************** PRINT POINTER ******************/

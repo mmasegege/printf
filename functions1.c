@@ -1,4 +1,3 @@
-functions1.c
 #include "main.h"
 
 /************************* PRINT UNSIGNED NUMBER *************************/
